@@ -1,0 +1,8 @@
+# GET http://localhost:8080/header HTTP/1.1
+
+POST http://localhost:8080/post HTTP/1.1
+Content-Type: application/json
+{
+    "name":"珈乐",
+    "time":"6.4"
+} 
